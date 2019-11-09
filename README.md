@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 # Starving Artist Jekyll Theme
 ![Starving Artist Jekyll Theme screenshot](screenshot.png)
 
