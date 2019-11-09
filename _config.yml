@@ -8,7 +8,7 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://dankdegl.github.io"
+  url: "127.0.0.1"
 
 header: images/logo.png
 
@@ -25,15 +25,14 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-remote_theme: chrisanthropic/starving-artist-jekyll-theme
-  
+theme: starving-artist-jekyll-theme
 # Plugins
 gems:
   - jekyll-feed
 
 feed:
   path: atom.xml
-  
+
 # Compress our Css
 #sass:
 #    style: :compressed
@@ -47,7 +46,7 @@ collections:
 
 #### SEO Stuff
 # Google Analytics
-google_universal_analytics: 
+google_universal_analytics:
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
@@ -58,6 +57,6 @@ facebook_page:                                  #the URL of your Facebook Page
 facebook_image: images/author.jpg                      #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
-twitter_user: 
+twitter_user:
 twitter_card: true
 twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
