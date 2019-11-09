@@ -1,14 +1,14 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Line Degl
+email: dankdegl@gmail.com
+author: Dankdegl
 
-keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+keywords: degl, art
+description: This is my website
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "127.0.0.1"
+  url: "https://dankdegl.github.io"
 
 header: images/logo.png
 
